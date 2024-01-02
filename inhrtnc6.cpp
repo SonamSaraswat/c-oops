@@ -1,0 +1,1 @@
+/*****Inheritance calculator exercise*******/
